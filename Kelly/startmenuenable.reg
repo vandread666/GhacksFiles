@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoSaveSettings"=dword:00000000
+"NoChangeStartMenu"=dword:00000000
+"NoStartMenuSubFolders"=dword:00000000
+"NoStartMenuMFUprogramsList"=dword:00000000
+"NoStartMenuMorePrograms"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_EnableDragDrop"=dword:00000001
+

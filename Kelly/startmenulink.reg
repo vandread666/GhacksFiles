@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_CLASSES_ROOT\CLSID\{2559a1f6-21d7-11d4-bdaf-00c04f60b9f0}] 
+@="Kellys XP Korner" 
+
+[HKEY_CLASSES_ROOT\CLSID\{2559a1f6-21d7-11d4-bdaf-00c04f60b9f0}\DefaultIcon] 
+@="%SystemRoot%\\system32\\shell32.dll,-47" 
+
+[HKEY_CLASSES_ROOT\CLSID\{2559a1f6-21d7-11d4-bdaf-00c04f60b9f0}\Instance\InitPropertyBag] 
+"CLSID"="{13709620-C279-11CE-A49E-444553540000}" 
+"method"="ShellExecute" 
+"Command"="Kellys XP Korner" 
+"Param1"="http://www.kellys-korner-xp.com/xp.htm" 

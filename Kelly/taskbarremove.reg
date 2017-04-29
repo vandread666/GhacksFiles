@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoSetTaskbar"=dword:00000001
+"NoTrayItemsDisplay"=dword:00000001
+"HideClock"=dword:00000001
+"NoToolbarsOnTaskbar"=dword:00000001
+"NoTrayContextMenu"=dword:00000001
+"NoSaveSettings"=dword:00000000

@@ -1,0 +1,48 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore]
+"DisableConfig"=dword:00000000
+"DisableSR"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoSaveSettings"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\sr]
+"Type"=dword:00000002
+"Start"=dword:00000000
+"ErrorControl"=dword:00000001
+"Tag"=dword:00000004
+"ImagePath"=hex(2):53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,00,\
+  52,00,49,00,56,00,45,00,52,00,53,00,5c,00,73,00,72,00,2e,00,73,00,79,00,73,\
+  00,00,00
+"DisplayName"="System Restore Filter Driver"
+"Group"="FSFilter System Recovery"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\sr\Parameters]
+"FirstRun"=dword:00000000
+"DontBackup"=dword:00000000
+"MachineGuid"="{EAAFAEEC-4AFE-42BE-83D9-C12FDD4942A6}"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\sr\Security]
+"Security"=hex:01,00,14,80,90,00,00,00,9c,00,00,00,14,00,00,00,30,00,00,00,02,\
+  00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,\
+  00,00,02,00,60,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,\
+  05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,\
+  20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,\
+  00,18,00,fd,01,02,00,01,02,00,00,00,00,00,05,20,00,00,00,23,02,00,00,01,01,\
+  00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\sr\Enum]
+"0"="Root\\LEGACY_SR\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\LocalMachine\Software\Policies\Microsoft\Windows NT\SystemRestore]
+"DisableSR"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\LocalMachine\Software\Policies\Microsoft\Windows NT\SystemRestore]
+"DisableConfig"=dword:00000000
+
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\LocalMachine\Software\Policies\Microsoft\Windows NT\SystemRestore]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore]
+[-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\LocalMachine\Software\Policies\Microsoft\Windows NT\SystemRestore]
