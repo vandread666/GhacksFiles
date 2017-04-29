@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\PCHealth\Global\WindowPlacement\1280_768_Help and Support Center]
+"Maximized"=dword:00000000
+"Rect"=hex:33,00,00,00,49,00,00,00,f3,03,00,00,d3,02,00,00
+

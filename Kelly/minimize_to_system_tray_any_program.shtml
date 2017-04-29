@@ -1,0 +1,476 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<!-- Head: Start -->
+<head><script type="text/javascript" src="/static/js/analytics.js?v=1493367442.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app18.us.archive.org';archive_analytics.values.server_ms=229;</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1493367442.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1493367442.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1493367442.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta name="verify-v1" content="+HRfpfYcSfR11pPMFbZ7OvVbBYnMbCD2s8J8YcTF2KM="/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="keywords" content="minimize to tray,tray,minimize,minimize to system tray,windows,applications,system,tray,tray icon,notification area,icon,title,bar,buttons,system tray,min to tray,mintotray"/>
+<meta name="description" content="Minimize to Tray: Now you can minimize to the system tray icon any program (Outlook Express, Notepad, Word, Internet Explorer etc.) and get more room in the Taskbar by using the new Minimize-to-Tray title button. Minimize to the tray your programs right now!"/>
+<link href="/web/20131007235847cs_/http://actualtools.com/bitrix/cache/css/en/demo2/kernel/kernel.css?1374040366" type="text/css" rel="stylesheet"/>
+<script type="text/javascript"> var arKernelCSS = new Array('/bitrix/js/main/core/css/core.css','/bitrix/js/fileman/sticker.css','/bitrix/js/main/core/css/core_panel.css','/de/bitrix/js/main/core/css/core.css'); </script><link href="/web/20131007235847cs_/http://actualtools.com/bitrix/cache/css/en/demo2/template_6afcd0e5daa0193b498018484ba9cb61/template_6afcd0e5daa0193b498018484ba9cb61_5d97f4f2730c09b887ac9d9fb3f23a63.css?1379589420" type="text/css" rel="stylesheet"/>
+
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1381190327','SERVER_TZ_OFFSET':'28800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'c3de44aad17fbfc22e2fc3972e79c8a9','SITE_ID':'en'});(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size'});</script>
+<script type="text/javascript" src="/web/20131007235847js_/http://actualtools.com/bitrix/cache/js/en/demo2/kernel/kernel.js?1377489726"></script>
+<script type="text/javascript"> BX.setKernelJS(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/session.js','/de/bitrix/js/main/core/core.js','/de/bitrix/js/main/core/core_ajax.js','/de/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/fileman/sticker.js','/bitrix/js/main/core/core_admin.js','/bitrix/js/main/utils.js','/bitrix/js/main/admin_tools.js','/bitrix/js/main/popup_menu.js','/bitrix/js/main/admin_search.js','/bitrix/js/main/hot_keys.js','/bitrix/js/main/public_tools.js','/de/bitrix/js/main/core/core_fx.js']); </script><script type="text/javascript">
+bxSession.Expand(1440, 'c3de44aad17fbfc22e2fc3972e79c8a9', false, '13cc7c40fc120a182696ac7ee4d61aa3');
+</script>
+
+
+
+<title>Minimize to tray: Minimize to the system tray any program you want! - Articles - Actual Tools</title>
+<script language="JavaScript1.2" src="/web/20131007235847js_/http://actualtools.com/bitrix/templates/demo/js/ddnmenu.js"></script>
+<script src="/web/20131007235847js_/http://actualtools.com/bitrix/js/main/utils.js"></script>
+</head>
+<!-- Head: End -->
+
+<!-- Body: Start -->
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1493367442.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1493367442.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1493367442.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1493367442.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+  <table style="width:100%;">
+    <tbody>
+      <tr>
+	<td id="wm-logo">
+	  <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+	</td>
+	<td class="c">
+	  <table style="margin:0 auto;">
+	    <tbody>
+	      <tr>
+		<td class="u" colspan="2">
+		  <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20131007235847" /><input type="submit" value="Go" /></form>
+		</td>
+		<td class="n" rowspan="2">
+		  <table>
+		    <tbody>
+		      <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		      <tr class="m">
+			<td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20130518175657/http://www.actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" title="18 May 2013"><strong>May</strong></a></td>
+			<td class="c" id="displayMonthEl" title="You are here: 23:58:47 Oct 07, 2013">OCT</td>
+			<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20140727073136/http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" title="27 Jul 2014"><strong>Jul</strong></a></td>
+		      </tr>
+		      <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		      <tr class="d">
+			<td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20130518175657/http://www.actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" title="17:56:57 May 18, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+			<td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 23:58:47 Oct 07, 2013">07</td>
+			<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20140727073136/http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" title="07:31:36 Jul 27, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		      </tr>
+		      <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		      <tr class="y">
+			<td class="b" nowrap="nowrap"><a href="http://web.archive.org/web/20120906072408/http://www.actualtools.com:80/titlebuttons/minimize_to_system_tray_any_program.shtml" title="06 Sep 2012"><strong>2012</strong></a></td>
+			<td class="c" id="displayYearEl" title="You are here: 23:58:47 Oct 07, 2013">2013</td>
+			<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20141020183057/http://www.actualtools.com:80/titlebuttons/minimize_to_system_tray_any_program.shtml" title="20 Oct 2014"><strong>2014</strong></a></td>
+		      </tr>
+		    </tbody>
+		  </table>
+		</td>
+	      </tr>
+	      <tr>
+		<td class="s">
+		  		  <div id="wm-nav-captures">
+		    		    <a class="t" href="/web/20131007235847*/http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml" title="See a list of every capture for this URL">207 captures</a>
+		    <div class="r" title="Timespan for captures of this URL">11 Aug 2002 - 27 Nov 2016</div>
+		    </div>
+		</td>
+		<td class="k">
+		  <a href="" id="wm-graph-anchor">
+		    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		      <canvas id="wm-sparkline-canvas" width="550" height="27" border="0"></canvas>
+		    </div>
+		  </a>
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</td>
+	<td class="r">
+	  <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://web.archive.org/web/20131007235847/http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="top: 4px; right: 16px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	  <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=http://web.archive.org/web/20131007235847/http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="bottom:14px;right:16px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	  <a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="bottom:14px;right:5px;padding-right:0;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	  <a href="#close" onclick="__wm.h(event);return false;" style="top:-2px;right:0;padding-right:0;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+	  <a id="wm-expand" class="wm-btn" href="#expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+	</td>
+      </tr>
+    </tbody>
+  </table>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none;">
+            <div style="background-color:#353535;color:#aaa;font-weight:bold;text-align:center;"><a class="wm-selector selected" href="javascript:void(0)">COLLECTED BY</a></div>
+    <div style="padding:3px;position:relative;">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00009)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00009" target="_new"><span class="wm-title">Wide Crawl started August 2013</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl with initial seedlist and crawler configuration from August 2013.
+	</div>
+	      </div>
+    </div></div></div></div></div><script type="text/javascript">
+__wm.bt(550,27,25,2,"web","http://actualtools.com/titlebuttons/minimize_to_system_tray_any_program.shtml","2013-10-07",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<!-- Top: Start -->
+<table class="header" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#94BEE7">
+<tr><td width="200"><img src="/web/20131007235847im_/http://actualtools.com/images/at_building.gif" width="200" height="91" border="0" alt="Actual Tools"/></td>
+<td width="100%" valign="top">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="166"><a href="/web/20131007235847/http://actualtools.com/" title="Actual Tools: Home of Window Manager, Multiple Monitors, Virtual Desktops, Title Buttons, Transparent Window, Window Minimizer, Window Guard, Window Rollup, Window Menu."><img src="/web/20131007235847im_/http://actualtools.com/images/top_logo.gif" width="166" height="63" border="0" alt="Actual Tools"/></a></td>
+<td width="80%" style="background-image: url(/web/20131007235847im_/http://actualtools.com/images/top_background.gif);background-repeat: no-repeat; background-position: right;">
+  <img src="/web/20131007235847im_/http://actualtools.com/images/spacer.gif" width="100%" height="1"/>
+          <table border="0" cellspacing="0" cellpadding="0" align="right" valign="top" style="margin-right:20px;">
+        <form action="/web/20131007235847/http://actualtools.com/search/index.php">
+                        <td align="center"><input type="text" name="q" value="" size="15" maxlength="50" class="inputfield"></td>
+                        <td align="right"><input name="s" type="submit" value="Search" width="20" height="20" class="inputbuttonflat"></td>
+        </form>
+        </table>
+        </td>
+</tr>
+<tr><td colspan="2" style="background-image: url(/web/20131007235847im_/http://actualtools.com/images/topmenu_background.gif);background-repeat: no-repeat; background-position: right;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr>
+<td width="15"><img src="/web/20131007235847im_/http://actualtools.com/images/spacer.gif" width="15" height="28"/></td>
+
+<td>
+<!-- <a class="header" href="/">Home</a><a class="header" href="/products/">Products</a><a class="header" href="/download/">Download</a><a class="header" href="/order/">Order</a><a class="header" href="/forum/">Forums</a><a class="header" href="/about/contacts/">Contacts</a>
+-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="0%"></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(0);" onmouseout="hide_menu(0);"><a href="/web/20131007235847/http://actualtools.com/" class="header"><nobr>&nbsp;HOME&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(1);" onmouseout="hide_menu(1);"><a href="/web/20131007235847/http://actualtools.com/products/" class="header"><nobr>&nbsp;PRODUCTS&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(1);" onmouseout="hide_menu(1);" id="menu1" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmanager/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmanager/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Manager</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/filefolders/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/filefolders/" style="text-decoration: none;"><font class="popupmenutext">Actual File Folders</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/multiplemonitors/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/multiplemonitors/" style="text-decoration: none;"><font class="popupmenutext">Actual Multiple Monitors</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/virtualdesktops/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/virtualdesktops/" style="text-decoration: none;"><font class="popupmenutext">Actual Virtual Desktops</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/titlebuttons/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/titlebuttons/" style="text-decoration: none;"><font class="popupmenutext">Actual Title Buttons</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/transparentwindow/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/transparentwindow/" style="text-decoration: none;"><font class="popupmenutext">Actual Transparent Window</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowminimizer/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowminimizer/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Minimizer</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowguard/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowguard/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Guard</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmenu/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmenu/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Menu</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowrollup/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowrollup/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Rollup</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmanager/comparison/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmanager/comparison/" style="text-decoration: none;"><font class="popupmenutext">Compare Products</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(2);" onmouseout="hide_menu(2);"><a href="/web/20131007235847/http://actualtools.com/download/" class="header"><nobr>&nbsp;DOWNLOAD&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(2);" onmouseout="hide_menu(2);" id="menu2" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmanager/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmanager/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Manager</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/filefolders/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/filefolders/download/" style="text-decoration: none;"><font class="popupmenutext">Actual File Folders</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/multiplemonitors/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/multiplemonitors/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Multiple Monitors</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/virtualdesktops/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/virtualdesktops/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Virtual Desktops</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/titlebuttons/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/titlebuttons/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Title Buttons</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/transparentwindow/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/transparentwindow/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Transparent Window</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowminimizer/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowminimizer/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Minimizer</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowguard/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowguard/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Guard</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmenu/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmenu/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Menu</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowrollup/download/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowrollup/download/" style="text-decoration: none;"><font class="popupmenutext">Actual Window Rollup</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(3);" onmouseout="hide_menu(3);"><a href="/web/20131007235847/http://actualtools.com/order/" class="header"><nobr>&nbsp;ORDER&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(3);" onmouseout="hide_menu(3);" id="menu3" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/order/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/order/" style="text-decoration: none;"><font class="popupmenutext">Single User License</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/order/corporate/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/order/corporate/" style="text-decoration: none;"><font class="popupmenutext">Corporate Sales</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/upgradecenter/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/upgradecenter/" style="text-decoration: none;"><font class="popupmenutext">Upgrade Center</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(4);" onmouseout="hide_menu(4);"><a href="/web/20131007235847/http://actualtools.com/support/" class="header"><nobr>&nbsp;SUPPORT&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(4);" onmouseout="hide_menu(4);" id="menu4" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/support/faq/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/support/faq/" style="text-decoration: none;"><font class="popupmenutext">FAQ</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/support/how_to_upgrade.php'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/support/how_to_upgrade.php" style="text-decoration: none;"><font class="popupmenutext">How to Upgrade</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/support/restore_reg_code.php'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/support/restore_reg_code.php" style="text-decoration: none;"><font class="popupmenutext">Restore the Registration Code</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmanager/onlinedemo/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmanager/onlinedemo/" style="text-decoration: none;"><font class="popupmenutext">Online Demos</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/windowmanager/help/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/windowmanager/help/" style="text-decoration: none;"><font class="popupmenutext">Online User Manual</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/" style="text-decoration: none;"><font class="popupmenutext">Forums</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=7'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=7" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Announcements</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=8'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=8" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;General</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=11'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=11" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Feature Requests</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=10'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=10" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Technical Support</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=9'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=9" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Window Rules Tips and Tricks</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/forum/list.php?FID=12'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/forum/list.php?FID=12" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Beta Testing</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/about/contacts/feedback.php'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/about/contacts/feedback.php" style="text-decoration: none;"><font class="popupmenutext">Feedback Form</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/beta/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/beta/" style="text-decoration: none;"><font class="popupmenutext">Beta Testing Section</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(5);" onmouseout="hide_menu(5);"><a href="/web/20131007235847/http://actualtools.com/infocenter/" class="header"><nobr>&nbsp;RESOURCES&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(5);" onmouseout="hide_menu(5);" id="menu5" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/articles/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/articles/" style="text-decoration: none;"><font class="popupmenutext">Articles</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/infocenter/reviews/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/infocenter/reviews/" style="text-decoration: none;"><font class="popupmenutext">Reviews</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/success_stories/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/success_stories/" style="text-decoration: none;"><font class="popupmenutext">Success Stories</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td><table border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#94BEE7" onmouseover="show_menu(6);" onmouseout="hide_menu(6);"><a href="/web/20131007235847/http://actualtools.com/about/" class="header"><nobr>&nbsp;COMPANY&nbsp;</nobr></a></td><td width="0%" bgcolor="#94BEE7"></td></tr></table><div style="position:relative; width: 100%;"><div onmouseover="show_menu(6);" onmouseout="hide_menu(6);" id="menu6" style="visibility: hidden; position: absolute; z-index: +2; top: 0px;"><table border="0" cellspacing="0" cellpadding="0" width="110" style="margin-top:7px;"><tr><td bgcolor="#E6EFF7" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/about/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/about/" style="text-decoration: none;"><font class="popupmenutext">About Us</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/about/contacts/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/about/contacts/" style="text-decoration: none;"><font class="popupmenutext">Contact Us</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/privacy.php'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/privacy.php" style="text-decoration: none;"><font class="popupmenutext">Privacy</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/affiliates/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/affiliates/" style="text-decoration: none;"><font class="popupmenutext">Partners</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/blogs_support/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/blogs_support/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Blogs Support Initiative</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/" style="text-decoration: none;"><font class="popupmenutext">Press Center</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/pr/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/pr/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Press Releases</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/publications/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/publications/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;In the News</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/review/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/review/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Reviewer's Guide</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/logos/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/logos/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Logos &amp; Screenshots</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/press/graphics/'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/press/graphics/" style="text-decoration: none;"><font class="popupmenutext">&nbsp;&nbsp;&nbsp;&nbsp;Publishing-friendly Graphics</font></a></nobr></td></tr><tr valign="top"><td nowrap onmouseover="this.className='popupmenuact'" onmouseout="this.className='popupmenu'" onclick="window.location='/about/newsletter.php'" class="popupmenu" style="cursor: hand"><nobr><a href="/web/20131007235847/http://actualtools.com/about/newsletter.php" style="text-decoration: none;"><font class="popupmenutext">Newsletter</font></a></nobr></td></tr></table></td></tr></table></div></div></td><td width="50%" bgcolor="#94BEE7"><img src="/web/20131007235847im_/http://actualtools.com/bitrix/templates/demo/images/1.gif" width="1" height="1" alt=""></td></tr></table></td>
+</tr></table>
+</td></tr>
+</table>
+</td>
+</tr></table>
+<!-- Top: End -->
+<!-- Main: Start -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<!-- Side Menu: Start -->
+<td class="sidemenu" width="200">
+<img src="/web/20131007235847im_/http://actualtools.com/images/at_building2.gif" width="200" height="59" border="0" alt="Actual Tools"/>
+<table class="rightmenu" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<!--tr><td>
+  </td></tr-->
+<tr><th>
+     <a href="/web/20131007235847/http://actualtools.com/upload/iblock_rss_46.xml"><img src="/web/20131007235847im_/http://actualtools.com/images/rss.gif" border="0" style="margin-top:2px; margin-right:4px;" alt="News is in RSS format" width="30" height="14" align="right"/></a>
+     News</th></tr>
+<tr><td>
+<div class="rightmenu">
+
+<div><table class="news" border="0" cellpadding="3" width="100%">
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>August 15, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/filefolders/" title="Actual File Folders offers two features to improve the folder navigation in Windows: Recent Folders tracks automatically which folders you visited recently and Favorite Folders lets you create the list of shortcuts to the folders you use most.">New Product - Actual File Folders 1.0 - is Available!</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>August 15, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/windowmanager/whatsnew/" title="">New Version 8.0 - New Licensing Policy, New Upgrade Policy, Support for MDI Windows, Screen Saver on Unused Monitors, Expos&eacute; Task Switcher, Enhanced Monitor Selector</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>April 12, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/products/" title="">New Version 7.5.1 - Service Release</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>March 25, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/products/" title="">New Version 7.5 - Hotkeys for Popular System Commands, Put into Divider Tile at Startup, Improved Task Switcher in Windows 8</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>February 19, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/products/" title="">New Version 7.4.3 - Service Release</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>February 5, 2013</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/products/" title="">New Version 7.4.2 - Service Release</a>
+  </td></tr>
+  <tr><td align="left" style="font-size:0.9em; padding-right:10px;">
+    <b>December 31, 2012</b>
+    <br/><a href="/web/20131007235847/http://actualtools.com/products/" title="">New Version 7.4.1 - Service Release</a>
+  </td></tr>
+</table></div>
+</div>
+</td></tr>
+</table>
+</td>
+<!-- Side Menu: End -->
+<!-- Main Body: Start -->
+<td class="mainbody">
+<a id="page_top"></a>
+
+<a href="/web/20131007235847/http://actualtools.com/" class="chain">Actual Tools</a><font class="chain">&nbsp;/&nbsp;</font><a href="/web/20131007235847/http://actualtools.com/products/" class="chain">Products</a><font class="chain">&nbsp;/&nbsp;</font><a href="/web/20131007235847/http://actualtools.com/titlebuttons/" class="chain">Actual Title Buttons</a><font class="chain">&nbsp;/&nbsp;</font><a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=921" class="chain">Minimize to tray: Minimize to the system tray any program you want!</a><h1><a id="header"></a>Minimize to Tray: Minimize to the System Tray Any Program You Want!</h1>
+
+<ol>
+  <li><a href="#intro">Introduction</a></li>
+  <li><a href="#browser"><i>Minimize to Tray</i> for Any Internet Browser</a></li>
+  <li><a href="#email"><i>Minimize to Tray</i> for Any E-mail Client</a></li>
+  <li><a href="#calc"><i>Minimize to Tray</i> for Calculators</a></li>
+  <li><a href="#edit"><i>Minimize to Tray</i> for Any Text Editor</a></li>
+  <li><a href="#arch"><i>Minimize to Tray</i> for Any Packer/Archiver</a></li>
+  <li><a href="#other"><i>Minimize to Tray</i> for Any Other Program</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
+  <li><a href="#links">Useful Links</a></li>
+</ol>
+<p>&nbsp;</p>
+
+
+<h2><a id="intro"></a>1. Introduction</h2>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="awm_demo" width="314" height="176" align="left" hspace="5" codebase="http://web.archive.org/web/20131007235847oe_/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0">
+  <param name="movie" value="/images/awm_demo.swf?link=http://actualtools.com/files/awmsetup.exe"/>
+  <param name="quality" value="high"/>
+  <param name="play" value="true"/>
+  <param name="loop" value="true"/>
+  <param name="bgcolor" value="#94bee7"/>
+  <param name="allowScriptAccess" value="sameDomain"/>
+  <img src="/web/20131007235847im_/http://actualtools.com/images/awm_screenshot_large.gif" width="314" height="176" border="0" align="left" hspace="5" alt="Minimize to the tray or minimize on the screen any program you want and get more space and freedom!"/>
+</object>
+
+<p>Since <i>Windows&reg;</i> operating system does not provide the default ability to minimize any window to the system tray,
+  <span class="product">Actual Window Minimizer</span> was developed for this single purpose but, being developed for years,
+  now <b>it performs this single function flawlessly</b>.
+</p>
+<p><span class="product">Actual Window Minimizer</span> is a small but powerful utility which is only needed to be installed
+  to bring the <b>Minimize to tray</b> ability online in the quickest and easiest way: it adds an extra
+  <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+  <b>Minimize to Tray</b> button to any window's title bar so that you can send any window to the system tray in a single mouse
+  click!
+</p>
+<p>Below are given several examples of using the <b>Minimize to Tray</b> feature with various programs.
+</p>
+<p>&nbsp;</p>
+
+
+<h2><a id="browser"></a>2. <i>Minimize to Tray</i> for Any Internet Browser</h2>
+
+<p>If you often open several windows simultaneously and keep an eye on the refreshment of information in them, you can minimize
+  them to tray to avoid closing by mistake. And when this information is required again, you can restore these windows and see
+  what has been changed.
+</p>
+<p>It is especially useful for Internet browsers, such as <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=962#minim"><i>Mozilla Firefox</i></a>,
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=957#minim"><i>Internet Explorer</i></a>, <i>Opera</i> or <i>Maxthon</i>. If you are interested
+  in the latest news or wait for an answer in a forum or eager to know the refreshment of quotations of rate,
+  <span class="product">Actual Window Minimizer</span> will not let you miss anything.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="email"></a>3. <i>Minimize to Tray</i> for Any E-mail Client</h2>
+
+<p>No matter what e-mail client you use - it can be
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=996" title="Find The Best Way To Minimize MS Outlook To The System Tray"><i>Microsoft Outlook</i></a>
+  or <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=891" title="Minimize Outlook Express to the tray"><i>Outlook Express</i></a>,
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=971#minim"><i>Mozilla Thunderbird</i></a>,
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=875" title="Minimize to the tray Eudora e-mail client"><i>Eudora</i></a>,
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=874" title="Enhance Your Incredimail and Incredimail Letters with Actual Title Buttons!"><i>Incredimail</i></a>
+  or any other program - <span class="product">Actual Window Minimizer</span> lets you <b>add the extra <i>Minimize to Tray</i>
+  functionality to your favorite e-mail software</b>.
+</p>
+<p>In the modern world e-mail is one of the major means of communication at work and at home. That's why an e-mail client is
+  always running on many computers (including the program authors' ones), even if a user isn't working with his e-mail client
+  at that particular time. Thus, the e-mail client consumes valuable taskbar space, which is needed for other programs used at
+  the moment.
+</p>
+<p>By minimizing a program to the system tray we can save the taskbar space and at the same time preserve easy access to our
+  e-mail software.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="calc"></a>4. <i>Minimize to Tray</i> for Calculators</h2>
+<p>If you often use the standard <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=887#calc"><i>Windows&reg; Calculator</i></a> or any other
+  similar tool for various calculations, think how convenient it would be to have a supplementary
+  <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+  <b>Minimize to Tray</b> button in the calculator's title bar.
+</p>
+<p>When you don't need the calculator - click this button. The calculator window disappears and its icon shows in the system
+  tray next to the clock. When you need the calculator again, click its icon in the system tray and the calculator window
+  appears again.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="edit"></a>5. <i>Minimize to Tray</i> for Any Text Editor</h2>
+
+<p>Using the <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+  <b>Minimize to Tray</b> title button you can turn any text editor into a handy organizer. This concerns
+  <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=884#minimize_tray"><i>Windows&reg; Notepad</i></a>, <i>Windows&reg; Wordpad</i> or any other
+  text editor.
+</p>
+<p>Achieving this is as easy as 1-2-3:</p>
+<ol>
+  <li>Run the text editor and minimize it to the system tray using the <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+    <b>Minimize to Tray</b> button.
+  </li>
+  <li>When you need to write down some idea or make some notes, click the text editor's icon in the system tray.
+  </li>
+  <li>You type your notes in the appeared window and then minimize it to the tray again.
+  </li>
+</ol>
+<p>You can repeat this procedure every time you need to write something down or view the notes made earlier.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="arch"></a>6. <i>Minimize to Tray</i> for Any Packer/Archiver</h2>
+
+<p>If you use <i>WinZip</i>, <i>WinRAR</i>, <i>7-Zip</i> or any other archiver rather often - you may find the
+  <b>Minimize to tray</b> feature quite useful.
+</p>
+<p>When you finish your work with the archiver for a while, click the
+  <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+  <b>Minimize to Tray</b> title button and archiver's window will be minimized to the system tray.
+</p>
+<p>When you need the archiver again - click the tray icon, and the program window will be restored.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="other"></a>7. <i>Minimize to Tray</i> for Any Other Program</h2>
+
+<p>Now you can add
+  <img src="/web/20131007235847im_/http://actualtools.com/images/MinimizeToTrayButton.gif" border="0" width="25" height="25" alt="Minimize-to-Tray button" align="absbottom"/>
+  <b>Minimize to Tray</b> button to every window's title bar so that you can send any window to the system tray in a single mouse click,
+  thus saving precious taskbar space! It is essential for those who work on monitors with low resolution. Having 5 or 6
+  running applications can clutter up the task bar, and make it quite unpleasant to work with.
+</p>
+<p>The nimble <b>Minimize to Tray</b> feature is indispensable when you have applications you don't plan to work with,
+  but still need to keep running. Getting them into the tray is an efficient approach to optimize the desktop. No matter
+  whether it is a <i>MicrosoftR Office</i> application (<a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=985#minim"><i>Word</i></a>,
+  <i>Excel</i>, etc.), any <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=881"><i>media player</i></a>,
+  an <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=873"><i>offline browser</i></a>, a <i>system dialog</i>,
+  a <a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=871#minim"><i>SSH client</i></a> or any other window -
+  <span class="product">Actual Window Minimizer</span> won't let you down.
+</p>
+<a href="#header">Back to Top</a>
+<p>&nbsp;</p>
+
+
+<h2><a id="conclusion"></a>8. Conclusion</h2>
+
+<p><span class="product">Actual Window Minimizer</span> is the easiest and the most comprehensive way for the
+  <b>Minimize to Tray</b> action. This is an ideal solution for programs running in the background that you don't want to close.
+  Try it out! It is simple to learn and use, and we think you will want to keep it once you see what it does for you!
+</p>
+<p>Besides the extra button, <span class="product">Actual Window Minimizer</span> offers many other ways to perform the
+  <b>Minimize to tray</b> action. For example, you can override the default behavior of any window's standard <b>Minimize</b>
+  or <b>Close</b> buttons and use it for minimization to the tray. Also, you can hide windows to the tray <i>automatically</i>
+  upon their startup or deactivation. You are also welcome to use the <b>Minimize to tray</b> system menu item or assign a
+  custom hotkey combination (<kbd>Win+.</kbd> by default).
+</p> 
+<p>Comprising the experience of thousands of its users, <span class="product">Actual Window Minimizer</span> is the
+  <b>ultimate solution</b> for the <b>Minimize to Tray</b> problem!
+</p>
+<p>&nbsp;</p>
+
+
+<h2><a id="links"></a>9. Useful Links</h2>
+
+<p>See the following links that will be your guides in getting acquainted with <b>Minimize to Tray</b> feature: 
+<ul>
+  <li><a href="/web/20131007235847/http://actualtools.com/files/awmsetup.exe">Download</a> the the fully-functional 60-days trial version of
+    <span class="product">Actual Window Minimizer</span> right now. It is completely free!
+  </li>
+  <li><a href="/web/20131007235847/http://actualtools.com/windowminimizer/"><span class="product">Actual Window Minimizer</span> Home</a> - the official page where you
+    can download or order the risk-free version and read what users say about <span class="product">Actual Window Minimizer</span>.
+  </li>
+  <li><a href="/web/20131007235847/http://actualtools.com/windowmanager/help/features/altminimize.php">Minimize Alternatively User Manual section</a> - now you are able
+    to minimize your windows not only to the taskbar but to alternate locations as well, such as the system tray and specific
+    locations on the screen.
+  </li>
+  <li><a href="/web/20131007235847/http://actualtools.com/windowmanager/help/howto/specific.php">Here</a> you can find the information on how to create specific settings
+    and apply <b>Minimize to Tray</b> action just for a particular window.
+  </li>
+  <li><a href="/web/20131007235847/http://actualtools.com/articles/detail.php?ID=888">8 ways to minimize your program to tray</a> - 8 different minimization options,
+    presented by <span class="product">Actual Window Minimizer</span>, originated to make window minimization more manifold
+    and convenient.
+  </li>
+</ul>
+<p>&nbsp;</p>
+
+<p>If you have any interesting ideas about using the <b>Minimize to Tray</b> feature, feel free to email us about them to
+  <a href="http://web.archive.org/web/20131007235847/mailto:actualtools@actualtools.com" title="Send us e-mail about how to use the Minimize-to-Tray feature">actualtools@actualtools.com</a>.
+</p>
+
+<p align="center">
+<a href="/web/20131007235847/http://actualtools.com/files/awmsetup.exe" title="Download Actual Window Minimizer Now!"><img border="0" src="/web/20131007235847im_/http://actualtools.com/images/downloadnow.gif" width="124" height="33" align="center" hspace="5" alt="Download Now!"/></a>
+<a href="/web/20131007235847/http://actualtools.com/windowminimizer/order/" title="Order Actual Window Minimizer Now!"><img border="0" src="/web/20131007235847im_/http://actualtools.com/images/ordernow.gif" width="124" height="33" align="center" hspace="5" alt="Order Now!"/></a>
+</p><img src="http://web.archive.org/web/20131007235847im_/http://actualtools.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATg0MjM1MDEBMTQxMjI5NDMyNwEvAQECQklUUklYX1NNX0xBU1RfVklTSVQBMDguMTAuMjAxMyAwNzo1ODo0NwExNDEyMjk0MzI3AS8BAQI%3D&amp;k=e876ec9698626b18746a7dfc027c8d11" alt="" style="width:0px; height:0px; position:absolute; left:-1px; top:-1px;"/>
+<div align="center"></div>
+
+</td>
+<!-- Main Body: End -->
+</tr>
+</table>
+<!-- Main: End -->
+<!-- Footer: Start -->
+<table width="100%" class="footer" cellpadding="0" cellspacing="0">
+<tr>
+<td width="80"><img src="/web/20131007235847im_/http://actualtools.com/images/at_logo_bottom.gif" width="80" height="80" border="0" title="Actual Tools"/></td>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td align="right"><a class="header" href="/web/20131007235847/http://actualtools.com/">Home</a><a class="header" href="/web/20131007235847/http://actualtools.com/products/">Products</a><a class="header" href="/web/20131007235847/http://actualtools.com/download/">Download</a><a class="header" href="/web/20131007235847/http://actualtools.com/order/">Order</a><a class="header" href="/web/20131007235847/http://actualtools.com/about/contacts/">Contacts</a><a class="header" href="/web/20131007235847/http://actualtools.com/press/">Press</a> <a class="header" href="/web/20131007235847/http://actualtools.com/privacy.php">Privacy</a></td></tr>
+<tr><td align="left"><div class="copyright">
+<!-- Copyright & Last modified -->
+Copyright &copy; 2002-2013
+Actual Tools. All rights reserved.
+<font size="-2"><br/><br/>Windows and the Windows logo are trademarks of the Microsoft group of companies.</font>
+<!--Last modified: January 21, 2013.--></div></td></tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!-- Footer: End -->
+</body>
+<!-- Body: End -->

@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\10.0\Outlook\InstantMessaging]
+"ForceDisableIM"=dword:00000001
+
+
+
+
+

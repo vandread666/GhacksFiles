@@ -1,0 +1,54 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}]
+@="JScript Language"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories\{F0B7A1A1-9847-11CF-8F20-00805F2CD064}]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories\{F0B7A1A2-9847-11CF-8F20-00805F2CD064}]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32]
+@="c:\\winnt\\system32\\jscript.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\OLEScript]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\ProgID]
+@="JScript"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}]
+@="JScript Language"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories\{F0B7A1A1-9847-11CF-8F20-00805F2CD064}]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories\{F0B7A1A2-9847-11CF-8F20-00805F2CD064}]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32]
+@="c:\\windows\\system32\\jscript.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\OLEScript]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\ProgID]
+@="JScript"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}]
+@="JScript Language Authoring"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\Implemented Categories\{0AEE2A92-BCBB-11D0-8C72-00C04FC2B085}]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32]
+@="C:\\WINDOWS\\System32\\jscript.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\OLEScript]
+
+[HKEY_CLASSES_ROOT\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\ProgID]
+@="JScript Author"
+

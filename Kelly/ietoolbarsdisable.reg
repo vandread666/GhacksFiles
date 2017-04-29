@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Toolbars\Restrictions]
+"NoToolbarOptions"=dword:00000001
+"NoAddressBar"=dword:00000001
+"NoToolBar"=dword:00000001
+"NoLinksBar"=dword:00000001
+"NoToolbarCustomize"=dword:00000001  
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Internet Explorer\Toolbars\Restrictions]
+"NoToolbarOptions"=dword:00000001
+"NoAddressBar"=dword:00000001
+"NoToolBar"=dword:00000001
+"NoLinksBar"=dword:00000001  
+"NoToolbarCustomize"=dword:00000001
+
