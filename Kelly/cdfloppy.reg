@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"AllocateCDRoms"="0"
+"AllocateFloppies"="0"
+"AllocateDASD"="0"

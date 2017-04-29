@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall]
+"NoAddRemovePrograms"=dword:00000001
+"NoRemovePage"=dword:00000001
+"NoAddPage"=dword:00000001
+"NoWindowsSetupPage"=dword:00000001
+"NoAddfromCDorFloppy"=dword:00000001
+"NoAddfromInternet"=dword:00000001
+"NoAddfromNetwork"=dword:00000001
+"NoServices"=dword:00000001
+"NoSupportInfo"=dword:00000001

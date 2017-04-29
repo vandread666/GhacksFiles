@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\RecycleBinOnDesktop]
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\HideDesktopIcons\\NewStartPanel"
+"Text"="Show Recycle Bin icon on the desktop"
+"Type"="checkbox"
+"ValueName"="{645FF040-5081-101B-9F08-00AA002F954E}"
+"CheckedValue"=dword:00000000
+"UncheckedValue"=dword:00000001
+"DefaultValue"=dword:00000001
+"HKeyRoot"=dword:80000001
+

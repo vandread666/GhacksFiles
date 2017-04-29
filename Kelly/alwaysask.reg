@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\exefile]
+@="Application"
+"EditFlags"=hex:38,07,00,00

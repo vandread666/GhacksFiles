@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Control Panel]
+"FormSuggest Passwords"=dword:00000000
+"FormSuggest"=dword:00000000

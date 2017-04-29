@@ -1,0 +1,198 @@
+REGEDIT4
+;Group - StartMenu - Speed 
+;--------------------------------------------------------------------------
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping]
+"Text"="Taskbar Grouping Strategy"
+"Type"="group"
+"Bitmap"="C:\\windows\\system\\shell32.dll,40"
+"HelpID"="iexplore.hlp#50041"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\Age]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group by oldest first"
+"Type"="radio"
+"CheckedValue"=dword:0
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\Type]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group by application first"
+"Type"="radio"
+"CheckedValue"=dword:1
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\2]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 2 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:2
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\3]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 3 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:3
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\4]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 4 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:4
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\5]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 5 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:5
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\7]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 7 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:7
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\10]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 10 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:a
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartMenu\TaskbarGrouping\15]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 15 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:f
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+;Start Panel
+;===========
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping]
+"Text"="Taskbar Grouping Strategy"
+"Type"="group"
+"Bitmap"="C:\\windows\\system\\shell32.dll,40"
+"HelpID"="iexplore.hlp#50041"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\Age]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group by oldest first"
+"Type"="radio"
+"CheckedValue"=dword:0
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\Type]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group by application first"
+"Type"="radio"
+"CheckedValue"=dword:1
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\2]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 2 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:2
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\3]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 3 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:3
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\4]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 4 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:4
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\5]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 5 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:5
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\7]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 7 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:7
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\10]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 10 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:a
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\StartMenu\StartPanel\TaskbarGrouping\15]
+"RegPath"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\explorer\\Advanced"
+"Text"="Group 15 or more application windows "
+"Type"="radio"
+"CheckedValue"=dword:f
+"ValueName"="TaskbarGroupSize"
+"DefaultValue"=dword:0
+"HKeyRoot"=dword:80000001
+;"HelpID"="update.hlp#51104"
