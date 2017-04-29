@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Security Center]
+"AntiVirusDisableNotify"=dword:00000000
+"FirewallDisableNotify"=dword:00000000
+"UpdatesDisableNotify"=dword:00000000
+"AntiVirusOverride"=dword:00000000
+"FirewallOverride"=dword:00000000

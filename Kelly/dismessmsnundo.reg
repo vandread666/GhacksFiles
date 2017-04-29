@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies]
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Messenger]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Messenger\Client]
+"PreventRun"=dword:00000000

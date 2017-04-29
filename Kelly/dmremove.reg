@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved]
+"{709C6E11-538F-4759-86AC-6ACB302AA0DE}"="Desktop Manager"
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\SharedDlls]
+"C:\\WINDOWS\\System32\\msvdm.dll"=dword:00000002
+"C:\\WINDOWS\\System32\\vdm.chm"=dword:00000002
+
+[-HKEY_CLASSES_ROOT\CLSID\{709C6E11-538F-4759-86AC-6ACB302AA0DE}]
+@="Desktop Manager"
+
+[-HKEY_CLASSES_ROOT\CLSID\{709C6E11-538F-4759-86AC-6ACB302AA0DE}\Implemented Categories]
+@=""
+
+[-HKEY_CLASSES_ROOT\CLSID\{709C6E11-538F-4759-86AC-6ACB302AA0DE}\Implemented Categories\{00021492-0000-0000-C000-000000000046}]
+@=""
+
+[-HKEY_CLASSES_ROOT\CLSID\{709C6E11-538F-4759-86AC-6ACB302AA0DE}\InProcServer32]
+"ThreadingModel"="Apartment"
+@="C:\\WINDOWS\\system32\\msvdm.dll"
