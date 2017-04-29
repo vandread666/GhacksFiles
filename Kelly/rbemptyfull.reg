@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}]
+
+[HKEY_CLASSES_ROOT\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+@="Shell32.dll,31"
+"Full"="Shell32.dll,32"
+"Empty"="Shell32.dll,31"

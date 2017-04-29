@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Outlook Express]
+"No Modify Accts"=dword:00000000
+

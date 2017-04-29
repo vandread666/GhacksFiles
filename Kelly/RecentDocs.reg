@@ -1,0 +1,40 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartMenu\StartMenu\Documents]
+"Text"="Recent Documents Menu"
+"Type"="group"
+"Bitmap"="C:\\windows\\system\\shell32.dll,21"
+"HelpID"="iexplore.hlp#50041"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartMenu\StartMenu\Documents\Documents]
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"
+"Text"="Hide Documents Menu"
+"Type"="checkbox"
+"CheckedValue"=dword:00000001
+"UncheckedValue"=dword:00000000
+"DefaultValue"=dword:00000000
+"ValueName"="NoRecentDocsMenu"
+"HKeyRoot"=dword:80000001
+;"HelpID"="iexplore.hlp#50107"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartMenu\StartMenu\Documents\DontAdd]
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"
+"Text"="Don't Add to Documents Menu"
+"Type"="checkbox"
+"CheckedValue"=dword:00000001
+"UncheckedValue"=dword:00000000
+"DefaultValue"=dword:00000000
+"ValueName"="NoRecentDocsHistory"
+"HKeyRoot"=dword:80000001
+;"HelpID"="iexplore.hlp#50107"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartMenu\StartMenu\Documents\ClearDocs]
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer"
+"Text"="Clear Documents Menu on Exit"
+"Type"="checkbox"
+"CheckedValue"=dword:00000001
+"UncheckedValue"=dword:00000000
+"DefaultValue"=dword:00000000
+"ValueName"="ClearRecentDocsOnExit"
+"HKeyRoot"=dword:80000001
+;"HelpID"="iexplore.hlp#50107"
