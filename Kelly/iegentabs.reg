@@ -1,0 +1,52 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Control Panel]
+"GeneralTab"=dword:00000000
+"ProgramsTab"=dword:00000000
+"SecurityTab"=dword:00000000
+"ContentTab"=dword:00000000
+"PrivacyTab"=dword:00000000
+"AdvancedTab"=dword:00000000
+"ConnectionsTab"=dword:00000000
+"HomePage"=dword:00000000
+"Accessibility"=dword:00000000
+"CertifPers"=dword:00000000
+"CertifSite"=dword:00000000
+"SecChangeSettings"=dword:00000000
+"SecAddSites"=dword:00000000
+"FormSuggest"=dword:00000000
+"FormSuggest Passwords"=dword:00000000
+"Connwiz Admin Lock"=dword:00000000
+"Settings"=dword:00000000
+"ResetWebSettings"=dword:00000000
+"Connection Wizard"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Internet Explorer\Control Panel]
+"GeneralTab"=dword:00000000
+"ProgramsTab"=dword:00000000
+"SecurityTab"=dword:00000000
+"ContentTab"=dword:00000000
+"PrivacyTab"=dword:00000000
+"AdvancedTab"=dword:00000000
+"ConnectionsTab"=dword:00000000
+"HomePage"=dword:00000000
+"Accessibility"=dword:00000000
+"CertifPers"=dword:00000000
+"CertifSite"=dword:00000000
+"SecChangeSettings"=dword:00000000
+"SecAddSites"=dword:00000000
+"FormSuggest"=dword:00000000
+"FormSuggest Passwords"=dword:00000000
+"Connwiz Admin Lock"=dword:00000000
+"Settings"=dword:00000000
+"ResetWebSettings"=dword:00000000
+"Connection Wizard"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoFolderOptions"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions]
+"NoBrowserOptions"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoSaveSettings"=dword:00000000

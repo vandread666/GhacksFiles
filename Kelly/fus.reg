@@ -1,0 +1,89 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\]
+"AllowMultipleTSSessions"=dword:0000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService]
+"ErrorControl"=dword:00000001
+"ObjectName"="LocalSystem"
+"Start"=dword:00000003
+"Description"="Allows multiple users to be connected interactively to a machine as well as the display of desktops and applications to remote computers. The underpinning of Remote Desktop (including RD for Administrators), Fast User Switching, Remote Assistance, and Terminal Server."
+"DisplayName"="Terminal Services"
+"DependOnService"=hex(7):52,00,50,00,43,00,53,00,53,00,00,00,00,00
+"Type"=dword:00000020
+"ImagePath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,\
+  6b,00,20,00,6e,00,65,00,74,00,73,00,76,00,63,00,73,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService\Parameters]
+"ServiceDll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  74,00,65,00,72,00,6d,00,73,00,72,00,76,00,2e,00,64,00,6c,00,6c,00,00,00
+"Certificate"=hex:01,00,00,00,01,00,00,00,01,00,00,00,06,00,5c,00,52,53,41,31,\
+  48,00,00,00,00,02,00,00,3f,00,00,00,01,00,01,00,79,fd,d0,7a,a7,73,b5,a5,5a,\
+  9d,2d,88,2b,89,b0,df,bb,b7,60,25,5e,00,77,25,69,a5,0f,6d,85,73,e4,db,ab,5c,\
+  1c,da,a3,bc,44,68,f8,dd,ec,d9,eb,8c,f9,c7,99,3d,d4,4a,2e,72,03,13,2d,c8,8f,\
+  7f,8f,bf,8f,a6,00,00,00,00,00,00,00,00,08,00,48,00,e9,a4,bc,a5,8e,b2,4d,78,\
+  e7,26,20,36,12,a2,05,e1,a0,a3,8e,ad,01,9b,d1,a6,ee,d1,e0,ed,e8,bd,61,2c,a1,\
+  d8,1b,72,32,63,cb,8b,b5,05,2f,36,dd,ac,dc,ac,7d,b5,23,3f,c3,81,9c,f4,dc,73,\
+  d7,4e,a2,24,09,67,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService\Performance]
+"Close"="CloseTSObject"
+"Collect Timeout"=dword:000003e8
+"Collect"="CollectTSObjectData"
+"Open Timeout"=dword:000003e8
+"Open"="OpenTSObject"
+"Library"="perfts.dll"
+"Last Counter"=dword:00000886
+"Last Help"=dword:00000887
+"First Counter"=dword:00000806
+"First Help"=dword:00000807
+"Object List"="2054 2176"
+"Library Validation Code"=hex:00,60,9f,30,0e,2c,c1,01,00,30,00,00,00,00,00,00
+"WbemAdapFileSignature"=hex:7e,fd,21,14,ea,d1,ac,72,34,26,10,d7,19,2b,fb,32
+"WbemAdapFileTime"=hex:00,60,9f,30,0e,2c,c1,01
+"WbemAdapFileSize"=dword:00003000
+"WbemAdapStatus"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TermService\Enum]
+"0"="Root\\LEGACY_TERMSERVICE\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FastUserSwitchingCompatibility]
+"Type"=dword:00000020
+"Start"=dword:00000003
+"ErrorControl"=dword:00000001
+"ImagePath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,76,00,63,00,68,00,6f,00,73,00,74,00,2e,00,65,00,78,00,65,00,20,00,2d,00,\
+  6b,00,20,00,6e,00,65,00,74,00,73,00,76,00,63,00,73,00,00,00
+"DisplayName"="Fast User Switching Compatibility"
+"DependOnService"=hex(7):54,00,65,00,72,00,6d,00,53,00,65,00,72,00,76,00,69,00,\
+  63,00,65,00,00,00,00,00
+"DependOnGroup"=hex(7):00,00
+"ObjectName"="LocalSystem"
+"Description"="Provides management for applications that require assistance in a multiple user environment."
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FastUserSwitchingCompatibility\Parameters]
+"ServiceDll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  73,00,68,00,73,00,76,00,63,00,73,00,2e,00,64,00,6c,00,6c,00,00,00
+"ServiceMain"="BadApplicationServiceMain"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FastUserSwitchingCompatibility\Security]
+"Security"=hex:01,00,14,80,90,00,00,00,9c,00,00,00,14,00,00,00,30,00,00,00,02,\
+  00,1c,00,01,00,00,00,02,80,14,00,ff,01,0f,00,01,01,00,00,00,00,00,01,00,00,\
+  00,00,02,00,60,00,04,00,00,00,00,00,14,00,fd,01,02,00,01,01,00,00,00,00,00,\
+  05,12,00,00,00,00,00,18,00,ff,01,0f,00,01,02,00,00,00,00,00,05,20,00,00,00,\
+  20,02,00,00,00,00,14,00,8d,01,02,00,01,01,00,00,00,00,00,05,0b,00,00,00,00,\
+  00,18,00,fd,01,02,00,01,02,00,00,00,00,00,05,20,00,00,00,23,02,00,00,01,01,\
+  00,00,00,00,00,05,12,00,00,00,01,01,00,00,00,00,00,05,12,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FastUserSwitchingCompatibility\Enum]
+"0"="Root\\LEGACY_FASTUSERSWITCHINGCOMPATIBILITY\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+
