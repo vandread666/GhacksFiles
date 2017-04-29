@@ -1,0 +1,47 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"Do404Search"=hex:01,00,00,00
+"Search Page"="http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch" 
+"Search Bar"="http://search.msn.com/spbasic.htm"
+"Use Custom Search URL"= dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\URLSearchHooks]
+"{CFBFAE00-17A6-11D0-99CB-00C04FD64497}"=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\SearchUrl]
+""="http://home.microsoft.com/access/autosearch.asp?p=%s"
+"provider"=""
+" "="+"
+"&"="%26"
+"+"="%2B"
+"#"="%23"
+"?"="%3F"
+"="="%3D"
+
+[HKEY_USERS\.DEFAULT\Software\Microsoft\Internet Explorer\Main]
+"Search Page"="http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch"
+"Search Bar"="http://search.msn.com/spbasic.htm"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Search] 
+"SearchAssistant"="http://ie.search.msn.com/{SUB_RFC1766}/srchasst/srchasst.htm" 
+"CustomizeSearch"="http://ie.search.msn.com/{SUB_RFC1766}/srchasst/srchcust.htm" 
+"Default_Search_URL"="http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main]
+"Default_Search_URL"="http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch"
+"Search Page"="http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch"
+
+[-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\URL]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\URL]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\URL\DefaultPrefix]
+@="http://"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes]
+"ftp"="ftp://"
+"gopher"="gopher://"
+"home"="http://"
+"mosaic"="http://"
+"www"="http://"
