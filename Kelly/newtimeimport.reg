@@ -1,0 +1,453 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones]
+[-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Alaskan Standard Time]
+"Display"="(GMT-09:00) Alaska"
+"Dlt"="Alaskan Daylight Time"
+"Std"="Alaskan Standard Time"
+"MapID"="30,31"
+"Index"=dword:00000003
+"TZI"=hex:1c,02,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Alaskan Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:1c,02,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:1c,02,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Atlantic Standard Time]
+"Display"="(GMT-04:00) Atlantic Time (Canada)"
+"Dlt"="Atlantic Daylight Time"
+"Std"="Atlantic Standard Time"
+"MapID"="40,41"
+"Index"=dword:00000032
+"TZI"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Atlantic Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\AUS Eastern Standard Time]
+"Display"="(GMT+10:00) Canberra, Melbourne, Sydney"
+"Dlt"="AUS Eastern Daylight Time"
+"Std"="AUS Eastern Standard Time"
+"MapID"="20,21"
+"Index"=dword:000000ff
+"TZI"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Azerbaijan Standard Time]
+"TZI"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,05,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,05,00,04,00,00,00,00,00,00,00
+"Std"="Azerbaijan Standard Time"
+"Dlt"="Azerbaijan Daylight Time"
+"Display"="(GMT+04:00) Baku"
+"Index"=dword:80000040
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Caucasus Standard Time]
+"Display"="(GMT+04:00) Yerevan"
+"Dlt"="Caucasus Daylight Time"
+"Std"="Caucasus Standard Time"
+"MapID"="8,9"
+"Index"=dword:000000aa
+"TZI"=hex:10,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Cen. Australia Standard Time]
+"Display"="(GMT+09:30) Adelaide"
+"Dlt"="Cen. Australia Daylight Time"
+"Std"="Cen. Australia Standard Time"
+"MapID"="-1,76"
+"Index"=dword:000000fa
+"TZI"=hex:c6,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Brazilian Standard Time]
+"TZI"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,05,00,00,00,00,\
+  00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+"Std"="Central Brazilian Standard Time"
+"Dlt"="Central Brazilian Daylight Time"
+"Display"="(GMT-04:00) Manaus"
+"Index"=dword:80000048
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Brazilian Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,02,00,02,00,\
+  00,00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+"2007"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,05,00,00,00,\
+  00,00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Standard Time]
+"Display"="(GMT-06:00) Central Time (US & Canada)"
+"Dlt"="Central Daylight Time"
+"Std"="Central Standard Time"
+"MapID"="36,37"
+"Index"=dword:00000014
+"TZI"=hex:68,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Standard Time (Mexico)]
+"TZI"=hex:68,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"Std"="Central Standard Time (Mexico)"
+"Dlt"="Central Daylight Time (Mexico)"
+"Display"="(GMT-06:00) Guadalajara, Mexico City, Monterrey - New"
+"Index"=dword:80000043
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Central Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:68,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:68,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\E. Europe Standard Time]
+"Display"="(GMT+02:00) Minsk"
+"Dlt"="E. Europe Daylight Time"
+"Std"="E. Europe Standard Time"
+"MapID"="4,5"
+"Index"=dword:00000073
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\E. South America Standard Time]
+"Display"="(GMT-03:00) Brasilia"
+"Dlt"="E. South America Daylight Time"
+"Std"="E. South America Standard Time"
+"MapID"="-1,80"
+"Index"=dword:00000041
+"TZI"=hex:b4,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,05,00,00,00,00,\
+  00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\E. South America Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:b4,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,02,00,02,00,\
+  00,00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+"2007"=hex:b4,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,02,00,00,00,05,00,00,00,\
+  00,00,00,00,00,00,00,00,0b,00,00,00,01,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Eastern Standard Time]
+"Display"="(GMT-05:00) Eastern Time (US & Canada)"
+"Dlt"="Eastern Daylight Time"
+"Std"="Eastern Standard Time"
+"MapID"="38,39"
+"Index"=dword:00000023
+"TZI"=hex:2c,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Eastern Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:2c,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:2c,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Egypt Standard Time]
+"Display"="(GMT+02:00) Cairo"
+"Dlt"="Egypt Daylight Time"
+"Std"="Egypt Standard Time"
+"MapID"="4,68"
+"Index"=dword:00000078
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,09,00,04,00,05,00,17,00,3b,\
+  00,3b,00,00,00,00,00,04,00,04,00,05,00,17,00,3b,00,3b,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Georgian Standard Time]
+"TZI"=hex:4c,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Std"="Georgian Standard Time"
+"Dlt"="Georgian Daylight Time"
+"Display"="(GMT+03:00) Tbilisi"
+"Index"=dword:80000047
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Greenwich Standard Time]
+"Display"="(GMT) Casablanca, Monrovia, Reykjavik"
+"Dlt"="Greenwich Daylight Time"
+"Std"="Greenwich Standard Time"
+"MapID"="88,89"
+"Index"=dword:0000005a
+"TZI"=hex:00,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\GTB Standard Time]
+"Display"="(GMT+02:00) Athens, Bucharest, Istanbul"
+"Dlt"="GTB Daylight Time"
+"Std"="GTB Standard Time"
+"MapID"="-1,67"
+"Index"=dword:00000082
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,04,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,05,00,03,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Iran Standard Time]
+"Display"="(GMT+03:30) Tehran"
+"Dlt"="Iran Daylight Time"
+"Std"="Iran Standard Time"
+"MapID"="-1,72"
+"Index"=dword:000000a0
+"TZI"=hex:2e,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Iran Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d5
+"LastEntry"=dword:000007d6
+"2005"=hex:2e,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,09,00,02,00,04,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2006"=hex:2e,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Israel Standard Time]
+"Display"="(GMT+02:00) Jerusalem"
+"Dlt"="Jerusalem Daylight Time"
+"Std"="Jerusalem Standard Time"
+"MapID"="-1,70"
+"Index"=dword:00000087
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,09,00,00,00,03,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,05,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Israel Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d4
+"LastEntry"=dword:000007e7
+"2004"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2005"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,d5,07,0a,00,00,00,09,00,02,00,\
+  00,00,00,00,00,00,d5,07,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2006"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,d6,07,0a,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,d6,07,03,00,00,00,1f,00,02,00,00,00,00,00,00,00
+"2007"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,d7,07,09,00,00,00,10,00,02,00,\
+  00,00,00,00,00,00,d7,07,03,00,00,00,1e,00,02,00,00,00,00,00,00,00
+"2008"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,d8,07,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,d8,07,03,00,00,00,1c,00,02,00,00,00,00,00,00,00
+"2009"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,d9,07,09,00,00,00,1b,00,02,00,\
+  00,00,00,00,00,00,d9,07,03,00,00,00,1b,00,02,00,00,00,00,00,00,00
+"2010"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,da,07,09,00,00,00,0c,00,02,00,\
+  00,00,00,00,00,00,da,07,03,00,00,00,1a,00,02,00,00,00,00,00,00,00
+"2011"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,db,07,0a,00,00,00,02,00,02,00,\
+  00,00,00,00,00,00,db,07,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2012"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,dc,07,09,00,00,00,17,00,02,00,\
+  00,00,00,00,00,00,dc,07,03,00,00,00,1e,00,02,00,00,00,00,00,00,00
+"2013"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,dd,07,09,00,00,00,08,00,02,00,\
+  00,00,00,00,00,00,dd,07,03,00,00,00,1d,00,02,00,00,00,00,00,00,00
+"2014"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,de,07,09,00,00,00,1c,00,02,00,\
+  00,00,00,00,00,00,de,07,03,00,00,00,1c,00,02,00,00,00,00,00,00,00
+"2015"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,df,07,09,00,00,00,14,00,02,00,\
+  00,00,00,00,00,00,df,07,03,00,00,00,1b,00,02,00,00,00,00,00,00,00
+"2016"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e0,07,0a,00,00,00,09,00,02,00,\
+  00,00,00,00,00,00,e0,07,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2017"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e1,07,09,00,00,00,18,00,02,00,\
+  00,00,00,00,00,00,e1,07,03,00,00,00,1f,00,02,00,00,00,00,00,00,00
+"2018"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e2,07,09,00,00,00,10,00,02,00,\
+  00,00,00,00,00,00,e2,07,03,00,00,00,1e,00,02,00,00,00,00,00,00,00
+"2019"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e3,07,0a,00,00,00,06,00,02,00,\
+  00,00,00,00,00,00,e3,07,03,00,00,00,1d,00,02,00,00,00,00,00,00,00
+"2020"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e4,07,09,00,00,00,1b,00,02,00,\
+  00,00,00,00,00,00,e4,07,03,00,00,00,1b,00,02,00,00,00,00,00,00,00
+"2021"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e5,07,09,00,00,00,0c,00,02,00,\
+  00,00,00,00,00,00,e5,07,03,00,00,00,1a,00,02,00,00,00,00,00,00,00
+"2022"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,e6,07,0a,00,00,00,02,00,02,00,\
+  00,00,00,00,00,00,e6,07,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2023"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Jordan Standard Time]
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,09,00,05,00,05,00,01,00,00,\
+  00,00,00,00,00,00,00,03,00,04,00,05,00,00,00,00,00,00,00,00,00
+"Std"="Jordan Standard Time"
+"Dlt"="Jordan Daylight Time"
+"Display"="(GMT+02:00) Amman"
+"Index"=dword:80000042
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mexico Standard Time] 
+"Display"="(GMT-06:00) Guadalajara, Mexico City, Monterrey - Old" 
+"Dlt"="Mexico Daylight Time" 
+"Std"="Mexico Standard Time" 
+"MapID"="-1,85" 
+"Index"=dword:0000001e 
+"TZI"=hex:68,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\ 
+00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mexico Standard Time 2] 
+"Display"="(GMT-07:00) Chihuahua, La Paz, Mazatlan - Old" 
+"Dlt"="Mexico Daylight Time 2" 
+"Std"="Mexico Standard Time 2" 
+"MapID"="34,35" 
+"Index"=dword:0000000d 
+"TZI"=hex:a4,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\ 
+00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Middle East Standard Time]
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,06,00,05,00,17,00,3b,\
+  00,3b,00,e7,03,00,00,03,00,00,00,05,00,00,00,00,00,00,00,00,00
+"Std"="Middle East Standard Time"
+"Dlt"="Middle East Daylight Time"
+"Display"="(GMT+02:00) Beirut"
+"Index"=dword:80000041
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Montevideo Standard Time]
+"TZI"=hex:b4,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,02,00,02,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,01,00,02,00,00,00,00,00,00,00
+"Std"="Montevideo Standard Time"
+"Dlt"="Montevideo Daylight Time"
+"Display"="(GMT-03:00) Montevideo"
+"Index"=dword:80000049
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mountain Standard Time]
+"Display"="(GMT-07:00) Mountain Time (US & Canada)"
+"Dlt"="Mountain Daylight Time"
+"Std"="Mountain Standard Time"
+"MapID"="34,35"
+"Index"=dword:0000000a
+"TZI"=hex:a4,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mountain Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:a4,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:a4,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Mountain Standard Time (Mexico)]
+"TZI"=hex:a4,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"Std"="Mountain Standard Time (Mexico)"
+"Dlt"="Mountain Daylight Time (Mexico)"
+"Display"="(GMT-07:00) Chihuahua, La Paz, Mazatlan - New"
+"Index"=dword:80000044
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Myanmar Standard Time]
+"Display"="(GMT+06:30) Yangon (Rangoon)"
+"Dlt"="Myanmar Daylight Time"
+"Std"="Myanmar Standard Time"
+"MapID"="-1,74"
+"Index"=dword:000000cb
+"TZI"=hex:7a,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Namibia Standard Time]
+"TZI"=hex:88,ff,ff,ff,00,00,00,00,3c,00,00,00,00,00,09,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"Std"="Namibia Standard Time"
+"Dlt"="Namibia Daylight Time"
+"Display"="(GMT+02:00) Windhoek"
+"Index"=dword:80000046
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\New Zealand Standard Time]
+"Display"="(GMT+12:00) Auckland, Wellington"
+"Dlt"="New Zealand Daylight Time"
+"Std"="New Zealand Standard Time"
+"MapID"="78,79"
+"Index"=dword:00000122
+"TZI"=hex:30,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,03,00,03,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,01,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Newfoundland Standard Time]
+"Display"="(GMT-03:30) Newfoundland"
+"Dlt"="Newfoundland Daylight Time"
+"Std"="Newfoundland Standard Time"
+"MapID"="-1,81"
+"Index"=dword:0000003c
+"TZI"=hex:d2,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,00,00,01,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,00,00,01,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Newfoundland Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:d2,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,00,00,\
+  01,00,00,00,00,00,00,00,04,00,00,00,01,00,00,00,01,00,00,00,00,00
+"2007"=hex:d2,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,00,00,\
+  01,00,00,00,00,00,00,00,03,00,00,00,02,00,00,00,01,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific SA Standard Time]
+"Display"="(GMT-04:00) Santiago"
+"Dlt"="Pacific SA Daylight Time"
+"Std"="Pacific SA Standard Time"
+"MapID"="-1,82"
+"Index"=dword:00000038
+"TZI"=hex:f0,00,00,00,00,00,00,00,c4,ff,ff,ff,00,00,03,00,06,00,02,00,17,00,3b,\
+  00,3b,00,e7,03,00,00,0a,00,06,00,02,00,17,00,3b,00,3b,00,e7,03
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific Standard Time]
+"Display"="(GMT-08:00) Pacific Time (US & Canada)"
+"Dlt"="Pacific Daylight Time"
+"Std"="Pacific Standard Time"
+"MapID"="32,33"
+"Index"=dword:00000004
+"TZI"=hex:e0,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,00,\
+  00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d6
+"LastEntry"=dword:000007d7
+"2006"=hex:e0,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,\
+  00,00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:e0,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0b,00,00,00,01,00,02,00,\
+  00,00,00,00,00,00,00,00,03,00,00,00,02,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Pacific Standard Time (Mexico)]
+"TZI"=hex:e0,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,0a,00,00,00,05,00,02,00,00,\
+  00,00,00,00,00,00,00,04,00,00,00,01,00,02,00,00,00,00,00,00,00
+"Std"="Pacific Standard Time (Mexico)"
+"Dlt"="Pacific Daylight Time (Mexico)"
+"Display"="(GMT-08:00) Tijuana, Baja California"
+"Index"=dword:80000045
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\SA Pacific Standard Time]
+"Display"="(GMT-05:00) Bogota, Lima, Quito, Rio Branco"
+"Dlt"="SA Pacific Daylight Time"
+"Std"="SA Pacific Standard Time"
+"MapID"="-1,83"
+"Index"=dword:0000002d
+"TZI"=hex:2c,01,00,00,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Sri Lanka Standard Time]
+"Display"="(GMT+05:30) Sri Jayawardenepura"
+"Dlt"="Sri Lanka Daylight Time"
+"Std"="Sri Lanka Standard Time"
+"MapID"="-1,74"
+"Index"=dword:000000c8
+"TZI"=hex:b6,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Tasmania Standard Time]
+"Display"="(GMT+10:00) Hobart"
+"Dlt"="Tasmania Daylight Time"
+"Std"="Tasmania Standard Time"
+"MapID"="20,-1"
+"Index"=dword:00000109
+"TZI"=hex:a8,fd,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,01,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\W. Australia Standard Time]
+"Display"="(GMT+08:00) Perth"
+"Dlt"="W. Australia Daylight Time"
+"Std"="W. Australia Standard Time"
+"MapID"="16,17"
+"Index"=dword:000000e1
+"TZI"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,05,00,03,00,00,\
+  00,00,00,00,00,00,00,0a,00,00,00,05,00,02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\W. Australia Standard Time\Dynamic DST]
+"FirstEntry"=dword:000007d5
+"LastEntry"=dword:000007d7
+"2005"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"2006"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,d6,07,01,00,00,00,01,00,00,00,\
+  00,00,00,00,00,00,d6,07,0c,00,05,00,01,00,02,00,00,00,00,00,00,00
+"2007"=hex:20,fe,ff,ff,00,00,00,00,c4,ff,ff,ff,00,00,03,00,00,00,05,00,03,00,\
+  00,00,00,00,00,00,00,00,0a,00,00,00,05,00,02,00,00,00,00,00,00,00
+

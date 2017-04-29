@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{8c5a024c-7a50-45d5-89ca-bbd0fb4cabfd}]
+"CLSID"="{1FBA04EE-3024-11d2-8F1F-0000F87ABD16}"
+"ButtonText"="New Window"
+"Icon"="%SystemRoot%\\System32\\shell32.dll,178"
+"HotIcon"="%SystemRoot%\\System32\\shell32.dll,178"
+"Default Visible"="Yes"
+"Exec"="C:\\Program Files\\Internet Explorer\\iexplore.exe"
+"MenuText"="New Window"
