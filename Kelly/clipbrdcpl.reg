@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}]
+@="Clipboard"
+"InfoTip"="Starts the Clipboard"
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}\DefaultIcon]
+@="%SystemRoot%\\\\System32\\\\clipbrd.exe,0"
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}\Shell]
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}\Shell\Open]
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}\Shell\Open\command]
+@="clipbrd.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}\ShellFolder]
+"Attributes"=dword:00000030
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{4de05bc9-69f6-4bfc-8094-5e1069f2f51f}]
+@="Add Clipboard to the Control Panel"

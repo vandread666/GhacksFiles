@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\ctfmon.exe]
+"key"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+"item"="ctfmon"
+"hkey"="HKCU"
+"command"="C:\\WINNT\\system32\\ctfmon.exe"
+"inimapping"="0"
+

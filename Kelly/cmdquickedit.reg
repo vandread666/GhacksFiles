@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\.DEFAULT\Console]
+"QuickEdit"=dword:00000001
+
+[HKEY_CURRENT_USER\Console]
+"QuickEdit"=dword:00000001
+
+
+
